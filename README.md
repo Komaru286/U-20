@@ -1,4 +1,4 @@
-# w
+# U-20
 
 ***
 ##  С чего начать?
@@ -12,7 +12,7 @@
 
 ```
 git clone https://gitflic.ru/project/loved/U-20.git
-cd w
+cd U-20
 **добавьте первые файлы вашего проекта**
 git add .
 git commit -m "Первый коммит"
