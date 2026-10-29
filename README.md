@@ -11,7 +11,7 @@
 
 
 ```
-git clone https://gitflic.ru/project/loved/w.git
+git clone https://gitflic.ru/project/loved/U-20.git
 cd w
 **добавьте первые файлы вашего проекта**
 git add .
@@ -24,7 +24,7 @@ git push -u origin master
 ```
 cd existing_folder
 git init
-git remote add origin https://gitflic.ru/project/loved/w.git
+git remote add origin https://gitflic.ru/project/loved/U-20.git
 git clone
 **добавьте новые файлы**
 git add .
